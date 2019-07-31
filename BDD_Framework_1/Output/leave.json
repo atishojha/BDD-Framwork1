@@ -1,0 +1,188 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 212835,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDef_TagingHooks.Browser_launch()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Test scenario one for TagingHooks",
+        "description": "",
+        "id": "understanding-of-taging-hooks;test-scenario-one-for-taginghooks",
+        "after": [
+          {
+            "result": {
+              "duration": 360847,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDef_TagingHooks.Browser_close()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 158883341,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Example one for TagingHooks",
+            "match": {
+              "location": "StepDef_TagingHooks.example_one_for_TagingHooks()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 285221,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDef_TagingHooks.Browser_launch()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Test scenario two for TagingHooks",
+        "description": "",
+        "id": "understanding-of-taging-hooks;test-scenario-two-for-taginghooks",
+        "after": [
+          {
+            "result": {
+              "duration": 165838,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDef_TagingHooks.Browser_close()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 250648,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Example two for TagingHooks",
+            "match": {
+              "location": "StepDef_TagingHooks.example_two_for_TagingHooks()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 164217,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDef_TagingHooks.Browser_launch()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Test scenario three for TagingHooks",
+        "description": "",
+        "id": "understanding-of-taging-hooks;test-scenario-three-for-taginghooks",
+        "after": [
+          {
+            "result": {
+              "duration": 189607,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDef_TagingHooks.Browser_close()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 273336,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Example three for TagingHooks",
+            "match": {
+              "location": "StepDef_TagingHooks.example_three_for_TagingHooks()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10774627,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDef_TagingHooks.Browser_launch()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Test scenario four for TagingHooks",
+        "description": "",
+        "id": "understanding-of-taging-hooks;test-scenario-four-for-taginghooks",
+        "after": [
+          {
+            "result": {
+              "duration": 107498,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDef_TagingHooks.Browser_close()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 405143,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Example four for TagingHooks",
+            "match": {
+              "location": "StepDef_TagingHooks.example_four_for_TagingHooks()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "understanding of Taging Hooks",
+    "description": "",
+    "id": "understanding-of-taging-hooks",
+    "keyword": "Feature",
+    "uri": "C:/Users/Dell/eclipse-workspace/BDD_Framework_1/Features/TagingHooks.feature"
+  }
+]

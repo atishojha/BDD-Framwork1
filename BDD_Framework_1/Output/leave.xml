@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="0.172073">
+<testcase classname="understanding of Taging Hooks" name="Test scenario one for TagingHooks" time="0.159457">
+<system-out><![CDATA[Given Example one for TagingHooks...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="understanding of Taging Hooks" name="Test scenario two for TagingHooks" time="0.000702">
+<system-out><![CDATA[Given Example two for TagingHooks...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="understanding of Taging Hooks" name="Test scenario three for TagingHooks" time="0.000627">
+<system-out><![CDATA[Given Example three for TagingHooks.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="understanding of Taging Hooks" name="Test scenario four for TagingHooks" time="0.011287">
+<system-out><![CDATA[Given Example four for TagingHooks..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
